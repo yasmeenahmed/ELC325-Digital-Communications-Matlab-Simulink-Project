@@ -39,7 +39,7 @@ Random Integer Generator M-ary number = 2
 ##### Performance
 ![dadada](BPSK/BPSK.png)
 ##### schematic
-![dadad](BPSK/scheme.png)
+![dadad](BPSK/scheme.PNG)
 ##### Before Noise Scatter plot
 ![dadada](BPSK/before.png)
 ##### After Noise Scatter plot
