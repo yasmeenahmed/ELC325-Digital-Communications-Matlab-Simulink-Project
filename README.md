@@ -17,6 +17,8 @@ Random Integer Generator
 1- Samples per frame =  100
 2- Sample Time = 1
 3- intial seed  = 37
+Error Rate Calculation in case of using Raised cosine filter
+1- Receive delay = 10
 ```
 #### AWGN channel 
 
