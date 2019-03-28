@@ -1,19 +1,19 @@
 # Digital Communciation Project
 
-   This is a simulation of the performance of different modulation schemes including [BPSK][df1]> , [QPSK][df1], [FSK][df1],  [QAM-16][df1] and [QAM-64][df1] in an AWGN environment with different signal to ratio values.
+   This is a simulation of the performance of different modulation schemes including BPSK, QPSK, FSK,  QAM-16 and QAM-64 in an AWGN environment with different signal to ratio values.
 #### To run the simulation:
 
 1. write the command bertool in the command window.
 2. set Eb/N0 -10:1:10 in theoritcal and monte carlo tabs.
 3. browse and choose the desireds model.slx.
 4. set Ber variable Name = ber.
-5. Press plot in theoritcal and run in monte carlo.
+5. press plot in theoritcal and run in monte carlo.
 
-### general parameters
+### common parameters to all types of modulation
 
 #### Random Integer Generator
 ```sh
-Samples per frames =  100
+Samples per frame =  100
 Sample Time = 1
 ```
 #### AWGN channel 
