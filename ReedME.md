@@ -39,11 +39,11 @@ Random Integer Generator M-ary number = 2
 ##### performance
 ![dadada](BPSK/BPSK.png)
 ##### schematic
-![dadad](BPSK/scheme.png)
+![dadad](/BPSK/scheme.png)
 ##### before Noise Scatter plot
-![dadada](BPSK/before.png)
+![dadada](/BPSK/before.png)
 ##### after Noise Scatter plot
-![dadada](BPSK/after.png)
+![dadada](/BPSK/after.png)
 
 
 ### Quadrature Phase Shift Keying (QPSK)
@@ -58,7 +58,7 @@ modulator and demodulator phase shift = pi/2
 ```
 
 ##### performance
-![dadada](QPSK/BPSK.png)
+![dadada](QPSK/QPSK.png)
 ##### schematic
 ![dadada](QPSK/scheme.png)
 ##### before Noise Scatter plot
