@@ -19,6 +19,9 @@ Random Integer Generator
 3- intial seed  = 37
 Error Rate Calculation in case of using Raised cosine filter
 1- Receive delay = 10
+For the raised cosine filter
+Filter span in symbols=10
+Rolloff factor=0.2
 ```
 #### AWGN channel 
 
