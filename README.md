@@ -125,13 +125,13 @@ modulator and demodulato M-ary number = 8
 ```
 
 ##### Performance
-![dadada](FSK/FSK.png)
+![dadada](fsk/FSK.png)
 ##### Schematic
-![dadada](FSK/scheme.PNG)
+![dadada](fsk/scheme.PNG)
 ##### Before Noise Scatter plot
-![dadada](FSK/before.PNG)
+![dadada](fsk/before.PNG)
 ##### After Noise Scatter plot
-![dadada](FSK/after.PNG)
+![dadada](fsk/after.PNG)
 
 
 
