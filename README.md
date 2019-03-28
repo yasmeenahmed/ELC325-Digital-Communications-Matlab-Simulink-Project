@@ -4,7 +4,7 @@
 #### To run the simulation:
 
 1. write the command bertool in the command window.
-2. set Eb/N0 -10:1:10 in theoritcal and monte carlo tabs.
+2. set Eb/N0 -10:0.5:10 in theoritcal and monte carlo tabs.
 3. browse and choose the desireds model.slx.
 4. set Ber variable Name = ber.
 5. press plot in theoritcal and run in monte carlo.
@@ -36,14 +36,16 @@ Binary Phase Shift Keying (BPSK) is a two phase modulation scheme, where the 0â€
 Random Integer Generator M-ary number = 2
 ```
 
-##### Performance
+##### performance
 ![dadada](BPSK/BPSK.png)
 ##### schematic
 ![dadad](BPSK/scheme.PNG)
-##### Before Noise Scatter plot
+##### before Noise Scatter plot
 ![dadada](BPSK/before.PNG)
-##### After Noise Scatter plot
+##### after Noise Scatter plot
 ![dadada](BPSK/after.PNG)
+#### performance with rasied cosine filter
+![dadada](BPSK/BPSK-RC.png)
 
 
 ### Quadrature Phase Shift Keying (QPSK)
@@ -55,16 +57,20 @@ Quadrature Phase Shift Keying (QPSK) is a form of Phase Shift Keying in which tw
 ```sh
 Random Integer Generator M-ary number = 4
 modulator and demodulator phase shift = pi/2
+AWGN Number of bits per symbol = 2
 ```
 
-##### Performance
+##### performance
 ![dadada](QPSK/QPSK.png)
 ##### schematic
 ![dadada](QPSK/scheme.PNG)
-##### Before Noise Scatter plot
+##### before Noise Scatter plot
 ![dadada](QPSK/before.PNG)
-##### After Noise Scatter plot
+##### after Noise Scatter plot
 ![dadada](QPSK/after.PNG)
+#### performance with rasied cosine filter
+![dadada](QPSK/QPSK-RC.png)
+
 
 
 ### Quadrature amplitude modulation (QAM16)
@@ -78,6 +84,7 @@ Random Integer Generator M-ary number = 16
 modulator and demodulator phase shift = 0
 modulator and demodulato M-ary number = 16
 modulator and demodulator average power referenced to 1 ohm (watts) = 1
+AWGN Number of bits per symbol = 4
 ```
 
 ##### Performance
@@ -99,6 +106,7 @@ Random Integer Generator M-ary number = 64
 modulator and demodulator phase shift = 0
 modulator and demodulato M-ary number = 64
 modulator and demodulator average power referenced to 1 ohm (watts) = 1
+AWGN Number of bits per symbol = 6
 ```
 
 ##### Performance
@@ -109,6 +117,8 @@ modulator and demodulator average power referenced to 1 ohm (watts) = 1
 ![dadada](QAM-64/before.PNG)
 ##### After Noise Scatter plot
 ![dadada](QAM-64/after.PNG)
+#### performance with rasied cosine filter
+![dadada](QAM-64/QAM-64-RC.png)
 
 
 ### Frequency Shift Keying (FSK)
@@ -121,6 +131,7 @@ The output of a FSK modulated wave is high in frequency for a binary High input 
 ```sh
 Random Integer Generator M-ary number = 8
 modulator and demodulato M-ary number = 8
+AWGN Number of bits per symbol = 3
 
 ```
 
@@ -132,6 +143,8 @@ modulator and demodulato M-ary number = 8
 ![dadada](fsk/before.PNG)
 ##### After Noise Scatter plot
 ![dadada](fsk/after.PNG)
+#### performance with rasied cosine filter
+![dadada](fsk/FSK-RC.png)
 
 
 
