@@ -37,7 +37,7 @@ Random Integer Generator M-ary number = 2
 ```
 
 ##### Performance
-![dadada](BPSK/BPSK.PNG)
+![dadada](BPSK/BPSK.png)
 ##### schematic
 ![dadad](BPSK/scheme.PNG)
 ##### Before Noise Scatter plot
@@ -58,7 +58,7 @@ modulator and demodulator phase shift = pi/2
 ```
 
 ##### Performance
-![dadada](QPSK/QPSK.PNG)
+![dadada](QPSK/QPSK.png)
 ##### schematic
 ![dadada](QPSK/scheme.PNG)
 ##### Before Noise Scatter plot
@@ -81,7 +81,7 @@ modulator and demodulator average power referenced to 1 ohm (watts) = 1
 ```
 
 ##### Performance
-![dadada](QAM-16/QAM-16.PNG)
+![dadada](QAM-16/QAM-16.png)
 ##### Schematic
 ![dadada](QAM-16/scheme.PNG)
 ##### Before Noise Scatter plot
