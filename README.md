@@ -58,7 +58,7 @@ modulator and demodulator phase shift = pi/2
 ```
 
 ##### Performance
-![dadada](QPSK/BPSK.PNG)
+![dadada](QPSK/QPSK.PNG)
 ##### schematic
 ![dadada](QPSK/scheme.PNG)
 ##### Before Noise Scatter plot
@@ -89,7 +89,7 @@ modulator and demodulator average power referenced to 1 ohm (watts) = 1
 ##### After Noise Scatter plot
 ![dadada](QAM-16/after.PNG)
 
-### change!!!!!!!! (QAM64)
+### Quadrature amplitude modulation (QAM64)
 ##### description
 Quadrature amplitude modulation (QAM) conveys two analog message signals, or two digital bit streams, by changing (modulating) the amplitudes of two carrier waves, using the amplitude-shift keying (ASK) digital modulation scheme or amplitude modulation (AM) analog modulation scheme. The two carrier waves of the same frequency are out of phase with each other by 90°, a condition known as orthogonality and as quadrature. Being the same frequency, the modulated carriers add together, but can be coherently separated (demodulated) because of their orthogonality property. Another key property is that the modulations are low-frequency/low-bandwidth waveforms compared to the carrier frequency, which is known as the narrowband assumption. 
 In digital QAM, the number of modulation states determines how the digital signal is split up. For example, in 8QAM, each three bits of input alters the phase and amplitude of the carrier to derive eight unique modulation states, in this case it's six bits
@@ -125,7 +125,7 @@ modulator and demodulato M-ary number = 8
 ```
 
 ##### Performance
-![dadada](FSK/FSK.PNG)
+![dadada](FSK/FSK.png)
 ##### Schematic
 ![dadada](FSK/scheme.PNG)
 ##### Before Noise Scatter plot
