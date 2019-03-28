@@ -37,13 +37,13 @@ Random Integer Generator M-ary number = 2
 ```
 
 ##### Performance
-![dadada](BPSK/BPSK.png)
+![dadada](BPSK/BPSK.PNG)
 ##### schematic
 ![dadad](BPSK/scheme.PNG)
 ##### Before Noise Scatter plot
-![dadada](BPSK/before.png)
+![dadada](BPSK/before.PNG)
 ##### After Noise Scatter plot
-![dadada](BPSK/after.png)
+![dadada](BPSK/after.PNG)
 
 
 ### Quadrature Phase Shift Keying (QPSK)
@@ -58,13 +58,13 @@ modulator and demodulator phase shift = pi/2
 ```
 
 ##### Performance
-![dadada](QPSK/BPSK.png)
+![dadada](QPSK/BPSK.PNG)
 ##### schematic
-![dadada](QPSK/scheme.png)
+![dadada](QPSK/scheme.PNG)
 ##### Before Noise Scatter plot
-![dadada](QPSK/before.png)
+![dadada](QPSK/before.PNG)
 ##### After Noise Scatter plot
-![dadada](QPSK/after.png)
+![dadada](QPSK/after.PNG)
 
 
 ### Quadrature amplitude modulation (QAM16)
@@ -81,13 +81,13 @@ modulator and demodulator average power referenced to 1 ohm (watts) = 1
 ```
 
 ##### Performance
-![dadada](QAM-16/QAM-16.png)
+![dadada](QAM-16/QAM-16.PNG)
 ##### Schematic
-![dadada](QAM-16/scheme.png)
+![dadada](QAM-16/scheme.PNG)
 ##### Before Noise Scatter plot
-![dadada](QAM-16/before.png)
+![dadada](QAM-16/before.PNG)
 ##### After Noise Scatter plot
-![dadada](QAM-16/after.png)
+![dadada](QAM-16/after.PNG)
 
 ### change!!!!!!!! (QAM64)
 ##### description
@@ -102,13 +102,13 @@ modulator and demodulator average power referenced to 1 ohm (watts) = 1
 ```
 
 ##### Performance
-![dadada](QAM-64/QAM-64.png)
+![dadada](QAM-64/QAM-64.PNG)
 ##### Schematic
-![dadada](QAM-64/scheme.png)
+![dadada](QAM-64/scheme.PNG)
 ##### Before Noise Scatter plot
-![dadada](QAM-64/before.png)
+![dadada](QAM-64/before.PNG)
 ##### After Noise Scatter plot
-![dadada](QAM-64/after.png)
+![dadada](QAM-64/after.PNG)
 
 
 ### Frequency Shift Keying (FSK)
@@ -125,13 +125,13 @@ modulator and demodulato M-ary number = 8
 ```
 
 ##### Performance
-![dadada](FSK/FSK.png)
+![dadada](FSK/FSK.PNG)
 ##### Schematic
-![dadada](FSK/scheme.png)
+![dadada](FSK/scheme.PNG)
 ##### Before Noise Scatter plot
-![dadada](FSK/before.png)
+![dadada](FSK/before.PNG)
 ##### After Noise Scatter plot
-![dadada](FSK/after.png)
+![dadada](FSK/after.PNG)
 
 
 
