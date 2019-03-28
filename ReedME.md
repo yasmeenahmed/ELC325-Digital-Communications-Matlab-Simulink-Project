@@ -13,18 +13,21 @@
 
 #### Random Integer Generator
 ```sh
-Samples per frame =  100
-Sample Time = 1
+Random Integer Generator
+1- Samples per frame =  100
+2- Sample Time = 1
+3- intial seed  = 37
 ```
 #### AWGN channel 
-```sh
-intial seed  = 67
-```
 
+```sh
+1- Input signal power = 1
+2- intial seed  = 67
+```
 ### Binary Phase Shift Keying (BPSK)
 ---------------------
 ##### description
-&nbsp;
+
 Binary Phase Shift Keying (BPSK) is a two phase modulation scheme, where the 0’s and 1’s in a binary message are represented by two different phase states in the carrier signal: θ=0∘ for binary 1 and θ=180∘ for binary 0.
 
 
@@ -35,8 +38,8 @@ Random Integer Generator M-ary number = 2
 
 ##### Performance
 ![dadada](BPSK/BPSK.png)
-##### Schematic
-![dadada](BPSK/scheme.png)
+##### schematic
+![dadad](BPSK/scheme.png)
 ##### Before Noise Scatter plot
 ![dadada](BPSK/before.png)
 ##### After Noise Scatter plot
@@ -56,7 +59,7 @@ modulator and demodulator phase shift = pi/2
 
 ##### Performance
 ![dadada](QPSK/BPSK.png)
-##### Schematic
+##### schematic
 ![dadada](QPSK/scheme.png)
 ##### Before Noise Scatter plot
 ![dadada](QPSK/before.png)
