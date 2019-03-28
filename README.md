@@ -95,6 +95,9 @@ AWGN Number of bits per symbol = 4
 ![dadada](QAM-16/before.PNG)
 ##### After Noise Scatter plot
 ![dadada](QAM-16/after.PNG)
+#### performance with rasied cosine filter
+![dadada](QAM-16/QAM-RC.png)
+
 
 ### Quadrature amplitude modulation (QAM64)
 ##### description
